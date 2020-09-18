@@ -1,0 +1,10 @@
+.search-section {
+	display: flex;
+	justify-content: space-between;
+}
+.list-body {
+	padding: 40px 0;
+}
+h3{
+	text-align: center;
+}
